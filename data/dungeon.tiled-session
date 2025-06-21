@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "tsx/tileset_weapons_animated.tsx",
+    "activeFile": "tsx/ui_gamepad.tsx",
     "expandedProjectPaths": [
     ],
     "fileStates": {
@@ -15,11 +15,11 @@
             "expandedObjectLayers": [
                 3
             ],
-            "scale": 5.5,
-            "selectedLayer": 2,
+            "scale": 3,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 150.8181818181818,
-                "y": 57.27272727272728
+                "x": 184.16666666666666,
+                "y": 108.66666666666667
             }
         },
         "tmx/level-2.tmx": {
@@ -27,7 +27,7 @@
                 4
             ],
             "scale": 3,
-            "selectedLayer": 2,
+            "selectedLayer": 4,
             "viewCenter": {
                 "x": 162.5,
                 "y": 122.66666666666664
@@ -86,25 +86,26 @@
     "map.width": 20,
     "openFiles": [
         "tmx/level-1.tmx",
+        "tmx/level-2.tmx",
         "tsx/tileset_grounds.tsx",
         "tsx/tileset_walls.tsx",
         "tsx/tileset_props.tsx",
         "tsx/tileset_props_animated.tsx",
         "tsx/ui_hud.tsx",
-        "tsx/ui_gamepad.tsx",
-        "tsx/tileset_weapons_animated.tsx"
+        "tsx/ui_gamepad.tsx"
     ],
     "project": "dungeon.tiled-project",
-    "property.type": "bool",
+    "property.type": "string",
     "recentFiles": [
         "tmx/level-1.tmx",
-        "tsx/tileset_weapons_animated.tsx",
+        "tmx/level-2.tmx",
         "tsx/tileset_grounds.tsx",
         "tsx/tileset_walls.tsx",
         "tsx/tileset_props.tsx",
         "tsx/tileset_props_animated.tsx",
         "tsx/ui_hud.tsx",
         "tsx/ui_gamepad.tsx",
+        "tsx/tileset_weapons_animated.tsx",
         "tmx/level-test.tmx",
         "tmx/tileset_gamepad.tsx",
         "tileset_grounds.tsx"
